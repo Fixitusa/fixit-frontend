@@ -1,0 +1,5 @@
+:root {
+  --fixit-blue: #0080d6;
+  --fixit-gray: #555555;
+}
+body { margin: 0; font-family: Arial, sans-serif; }
